@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Faixa {
+    display: flex;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.foto png {
+    display:
+}
+
+.quemsou {
+    background-color: #222426;
+    color: aliceblue;
+}
+
+
+.quemsou h3 {
+    background-color: #0B8A7E;
+}
+
+header {
+    background-color: #222426;
+    display: 2px;
+    ;
+
+}
+
+nav p {
+    display: inline;
+    color: rgb(229, 238, 247);
+    align-content: space-around;
+}
+
+
+.Fotos {
+    flex-direction: row-reverse;
+    align-items: center;
+    display: flex;
+
+}
+
+.Rosto {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
